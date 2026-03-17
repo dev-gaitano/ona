@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.container-home {
+  display: flex;
+  flex-direction: column;
+}
+
 .navbar {
   position: absolute;
   top: 20px;
